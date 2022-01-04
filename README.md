@@ -2,6 +2,7 @@ ffmpeg logo overlay in PHP
 ==========================
 
 Add a watermark to a video in PHP.
+
 Code used in the Medium article available at https://medium.com/@dotcom.software/adding-a-watermark-to-a-video-in-php-81ee7fabd0c
 
 ## Usage
