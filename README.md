@@ -26,3 +26,10 @@ https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1920_18MG.m
 
 The sample logotype of Medium was taken from publicly available brand guidelines available at
 https://medium.design/logos-and-brand-guidelines-f1a01a733592
+
+## Medium
+
+Follow me and more of my stories at:
+
+https://medium.com/@dotcom.software/membership
+
