@@ -21,7 +21,7 @@ deps:
 	@docker exec $(CONTAINER) composer install
 
 sample:
-	@docker exec $(CONTAINER) curl https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1920_18MG.mp4 -o data/sample.mp4
+	@docker exec $(CONTAINER) curl https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1920_18MG.mp4 -o app/data/sample.mp4
 
 magic:
 	@docker exec -u $(UID) $(CONTAINER) php add_watermark.php
